@@ -9,4 +9,4 @@ How to run:
 
 3. Use the sidebar to configure parameters, run analysis, and download KPI CSV, PDF report, or full ZIP package.
 
-This demo was tailored to the VfL Wolfsburg Sports Data Analyst (BI & Reporting) job profile.
+
